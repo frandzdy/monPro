@@ -1,0 +1,17 @@
+lg:
+    entity:
+        creation_compte: 'Création du compte utilisateur'
+        update_compte: 'Modification d''un compte'
+        passe_temps: 'Passe temps :'
+        civilite: 'Civilité :'
+        raisonSocial: 'SARL :'
+        departement: 'Département'
+        date_naissance: 'Date de naissance :'
+        preferences: 'Préferences :'
+        preferences_departements: 'Préferences de Départements :'
+        preferences_civilite: 'Préferences Civilité :'
+    connexion:
+        nom_utilisateur: 'Nom d''utilisateur :'
+        mot_de_passe: 'Mot de passe :'
+        se_souvenir_de_moi: 'Se souvenir de moi :'
+        log_in: "S'identifier"
